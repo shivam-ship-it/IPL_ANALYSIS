@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="9/16/2020 5:03:20 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="VIPUL"
+  DTS:CreatorName="VIPUL\Salamander"
+  DTS:DTSID="{89D866AA-4C5A-43CD-8FD4-40BFC36EC14D}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.123"
+  DTS:LocaleID="16393"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{96313231-8CEC-4DB2-9DC9-0E3A9BE31E97}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

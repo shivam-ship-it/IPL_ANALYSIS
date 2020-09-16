@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IPL_ANALYSIS", "IPL_ANALYSIS.dtproj", "{1BE3BD95-7404-49A6-9B8B-4228536FC55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE3BD95-7404-49A6-9B8B-4228536FC55C}.Development|Default.ActiveCfg = Development
+		{1BE3BD95-7404-49A6-9B8B-4228536FC55C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E69AE05-E9FE-440D-94C1-032AF5D16C50}
+	EndGlobalSection
+EndGlobal
